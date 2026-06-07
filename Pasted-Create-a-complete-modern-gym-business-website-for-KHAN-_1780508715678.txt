@@ -1,0 +1,102 @@
+Create a complete modern gym business website for **KHAN FITNESS**.
+
+Business Details:
+
+* Business Category: Gym / Fitness Center
+* Business Name: KHAN FITNESS
+* Phone: 9064213267
+* Email: [sahilkhanlgl786@gmail.com](mailto:sahilkhanlgl786@gmail.com)
+* Address: 2nd floor, hospital road, above MRF TYRES, Krishnapur, Lalgola, West Bengal 742148, India
+* Instagram: https://www.instagram.com/thenameis_sahil_khan?igsh=OXJkd3ZlNTJsYmRy&utm_source=qr
+* Reviews: 20 reviews, 4.5-star rating
+
+Design Style:
+Create a premium, modern, simple, dark-themed gym website using **black, deep maroon, white, and metallic grey** colors. The website should look bold, powerful, professional, and high-converting. Use strong gym-style fonts, clean spacing, premium UI cards, smooth animations, hover effects, and scroll reveal effects.
+
+Website Sections:
+
+1. Hero Section
+
+   * Big headline: “Transform Your Body at KHAN FITNESS”
+   * Subtext about strength, fitness, discipline, and personal transformation
+   * CTA buttons: “Join Now” and “Contact Us”
+   * Dark gym-style background with premium gradient overlay
+   * Animated text, glowing maroon buttons, and modern 3D-style effects
+
+2. About Section
+
+   * Introduce KHAN FITNESS as a professional gym in Lalgola
+   * Mention modern training environment, fitness support, strength training, and transformation goals
+
+3. Services Section
+
+   * Strength Training
+   * Weight Loss Training
+   * Muscle Building
+   * Personal Training
+   * Cardio Training
+   * Fitness Guidance
+     Use premium cards with icons, hover animation, and maroon glow effect.
+
+4. Why Choose Us Section
+
+   * Professional gym environment
+   * Beginner-friendly training
+   * Affordable fitness support
+   * Motivational atmosphere
+   * Trusted by local members
+   * 4.5-star rating from 20 reviews
+
+5. Gallery Section
+
+   * Add placeholder gym images with stylish dark overlays
+   * Use modern grid layout with hover zoom effect
+
+6. Reviews Section
+
+   * Show rating: 4.5 ⭐
+   * Mention “Trusted by 20+ happy members”
+   * Add 3 sample review cards with realistic gym customer feedback
+
+7. Membership / CTA Section
+
+   * Strong call-to-action encouraging users to join KHAN FITNESS
+   * Add “Call Now” button linked to phone number
+   * Add “Message on Instagram” button linked to Instagram
+
+8. Contact Section
+
+   * Phone number clickable
+   * Email clickable
+   * Full address
+   * Instagram link
+   * Add embedded Google Map or map placeholder for the given address
+
+9. Footer
+
+   * Business name
+   * Quick links
+   * Contact info
+   * Copyright text
+
+Technical Requirements:
+
+* Build the full website at once.
+* Make it fully responsive for mobile, tablet, and desktop.
+* Use HTML, CSS, and JavaScript or React if suitable.
+* Add smooth scrolling navigation.
+* Add animated navbar.
+* Add mobile hamburger menu.
+* Add scroll animations.
+* Add button hover effects.
+* Use premium font pairing suitable for a gym brand, such as Bebas Neue / Montserrat / Oswald / Poppins.
+* Keep the code clean, organized, and production-ready.
+* The final design should feel like a premium fitness brand website, not a basic template.
+* Make sure all contact buttons work properly:
+
+  * Call button: tel:9064213267
+  * Email button: mailto:sahilkhanlgl786@gmail.com
+  * Instagram button should open the provided Instagram URL.
+
+Overall Goal:
+Design and develop a complete, premium, dark, maroon-black gym website for KHAN FITNESS that looks modern, powerful, professional, and ready to publish.
